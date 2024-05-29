@@ -1,3 +1,13 @@
+<a name="0.2.11"></a>
+## 0.2.11 (2024-05-29)
+
+
+### Bug Fixes
+
+* change build target ([5842d44](https://github.com/CedricVerlinden/bbcode-to-react-18/commit/5842d44))
+
+
+
 <a name="0.2.9"></a>
 ## [0.2.9](https://github.com/JimLiu/bbcode-to-react/compare/0.2.8...0.2.9) (2018-04-24)
 

@@ -1,6 +1,6 @@
 {
 	"name": "bbcode-to-react-18",
-	"version": "0.2.10",
+	"version": "0.2.11",
 	"description": "A utility for turning raw BBCode into React elements for React 18",
 	"main": "lib/index.js",
 	"types": "index.d.ts",
