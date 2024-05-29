@@ -1,6 +1,6 @@
 {
 	"name": "bbcode-to-react-18",
-	"version": "0.2.11",
+	"version": "0.2.12",
 	"description": "A utility for turning raw BBCode into React elements for React 18",
 	"main": "lib/index.js",
 	"types": "index.d.ts",
@@ -25,7 +25,8 @@
 		"CHANGELOG.md",
 		"lib",
 		"dist",
-		"tonic-example.js"
+		"tonic-example.js",
+		"index.d.ts"
 	],
 	"keywords": [
 		"bbcode",
