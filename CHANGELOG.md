@@ -1,3 +1,8 @@
+<a name="0.2.13"></a>
+## [0.2.13](https://github.com/CedricVerlinden/bbcode-to-react-18/compare/0.2.10...0.2.13) (2024-05-29)
+
+
+
 <a name="0.2.11"></a>
 ## 0.2.11 (2024-05-29)
 
