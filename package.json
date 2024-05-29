@@ -3,6 +3,7 @@
 	"version": "0.2.9",
 	"description": "A utility for turning raw BBCode into React elements for React 18",
 	"main": "lib/index.js",
+	"types": "index.d.ts",
 	"scripts": {
 		"report-coverage": "coveralls < ./coverage/lcov.info",
 		"test": "react-scripts test --env=jsdom",
